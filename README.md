@@ -31,6 +31,10 @@ Follow these steps to install PyFluxPro:
 
 Note that if your computer is administered by an IT section, you may not be able to install PyFluxPro because you don't have full administrator privileges.  Contact your local, friendly IT people for help.
 
+### Linux
+
+Come on, you lot are smart enough to figure it out!
+
 ## Uninstalling
 Always copy any control files that you may have saved to your PyFluxPro folder to a safe location before you uninstall PyFluxPro.
 
@@ -50,6 +54,10 @@ This will remove all components of PyFluxPro from you local machine.
 Follow these steps:
 
 1. Simply delete the PyFluxPro folder.
+
+### Linux
+
+See above!
 
 ## Want the Bleeding Edge?
 If you want the up-to-the-minute, bleeding edge version, clone the PyFluxPro GitHub repository at https://github.com/OzFlux/PyFluxPro.git.
