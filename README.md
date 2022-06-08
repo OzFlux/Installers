@@ -28,6 +28,7 @@ Follow these steps to install PyFluxPro:
 1. Navigate to the folder containing the downloaded installer, this will usually be your local **Downloads** folder.
 2. Uncompress the ZIP file by double clicking on the installer file.  Note that some configurations of macOS will do this automatically when the file is downloaded.
 3. Uncompressing the ZIP file will create a folder called PyFluxPro, move that folder to where you PyFluxPro e.g. Users/\<username>/PyFluxPro.
+3. The first time you try to run PyFluxPro, macOS may refuse to allow it to start because it has been unable to check it malicious software.  If this happens, go to **System Preferences**, select **Security & Privacy** and under the **General** tab there should be a message about Python.  Click the **Allow anyway** button to allow PyFluxPro to run.
 
 Note that if your computer is administered by an IT section, you may not be able to install PyFluxPro because you don't have full administrator privileges.  Contact your local, friendly IT people for help.
 
